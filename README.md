@@ -1,5 +1,5 @@
 # NaverMapBuild
- Kotlin, AndroidStudio
+
 안녕하세요? 네이버 Api를 활용한 AndroidStudio로 NaverMap를 빌드 및 응용목적의 어플리케이션입니다.
 
 작업 진행상황
